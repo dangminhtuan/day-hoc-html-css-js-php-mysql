@@ -1,0 +1,94 @@
+Học lập trình web cần học những môn nào?
+	Đã nghe nói về HTML, CSS, JS, PHP, MySQL chưa?
+Đầu tiên cần sử dụng phần mềm nào?
+	Đã nghe nói về Notepad++
+Em biết gì về HTML?
+	Đã nghe nói về chuyển Design sang HTML, CSS chưa?
+	<b> nghĩa là gì?
+	Những thẻ nào tương tự: <u>, <i>
+Em biết gì về CSS?
+	CSS dùng để trang trí trang web: độ rộng, màu chữ ....?
+	đã từng nhìn thấy color: red;
+Em biết gì về JS
+	Không nhớ!
+	onclick, alert? không biết
+Em biết gì về PHP?
+	Ngôn ngữ serverside? 
+	Serverside là gì?
+	echo?
+Em biết gì về MySQL?
+	Khái niệm Database?
+	Dùng Excel chưa?
+HTML
+	Đoạn mã HTML? I <b>want</b> to learn HTML 
+	Tạo một trang web? 
+		gạch ngang và dấu cách
+		cách mở 1 và sửa 1 trang web 
+			mở (xem nó thế nào): trình duyệt
+			sửa (cứ sửa được): Notepad++, Notepad, Brackets, Atom, Dreamweaver ...
+	Editor:
+		Ctrl + F: tìm kiếm
+		Ctrl + H: thay thế
+	Code Editor
+		Khái niệm indent (thò thụt)
+			Tab: ->
+			Shift + Tab: <-
+		Suggestion (code hint/hints/hinting)
+		Wordwrap
+			minh họa?
+	Cú pháp
+		thừa một dấu cách là đổ bể.
+			khác biệt môi trường.
+	Cấu trúc của 1 phần tử (element) HTML: <b>want</b>,<p>I <b>want</b> to learn HTML </p>
+		<b>: (tag) thẻ mở, thẻ bắt đầu 
+			<
+			b: tên thẻ
+			>
+			tự thử: có viết thừa dấu cách được không!
+		want: innerHTML, innerText, bên trong HTML, nội dung HTML 
+		</b>: thẻ đóng, thẻ kết thúc
+	Lưu ý về các thẻ:
+		đôi khi gọi phần tử là thẻ
+		Số lượng tên thẻ: vài chục
+		thường dùng vài cái: strong, p, div, ul, li, ol, table, tr, td
+		học dần dần, 30h nắm được 10 thẻ thường dùng
+		có thẻ lạ: kbd
+	Code: mã ~< language: ngôn ngữ
+		Code là gì?
+		Vấn đề của code: thay đổi code 
+			tại sao? thay đổi yêu cầu (chức năng)
+				bớt (xóa)
+				thêm
+				thay đổi (sửa)
+			thay đổi nhiều QUÁ
+				thay đổi nhanh (càng nhanh càng tốt)
+		Phiên bản
+			Khái niệm phiên bản (version)
+				1
+				1.0
+				1.0.0
+				1.3.9.27
+			Branch, roll back, restore
+				Stage 1.
+				Stage 2. 
+					1 + die
+					1 + pass
+			Cách tạo version
+				lưu thành nhiều file
+				git: công cụ quản lý phiên bản
+					github
+			
+	thẻ strong, sự khác nhau giữa b và strong
+		HTML là viết tắt của? HyperText Markup Language
+			HyperText: trang trí + tương tác (link)
+			Language
+		Sự ra đời của CSS
+			thẻ style và tác dụng của nó
+				ví trí thẻ style: đầu, giữa, dưới
+				phần bên trong thẻ style gọi là CSS (Cascading Style Sheets)
+			Số lượng kiến thức CSS: 1500
+			Có khoảng 100 thuộc tính CSS thường dùng, học khoảng 50h (lưu ý là có code hint)
+		b: bold? good or bad name?
+			Semantic: nghĩa là "nghĩa", "ý nghĩa"
+				nhấn mạnh cách nào.
+				w3.org
